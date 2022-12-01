@@ -52,4 +52,4 @@
 | 35  |    Kiriko     | ⚕️ Support |  Nightmare   |     ✅ Nominal     |                               |
 | 36  |   Ramattra    |  🛡️ Tank   |      -       |    🚫 Inactive     | Unreleased                    |
 
-_FiftyFree: "Can we just put dogshit for Doomfist?"_
+_\* FiftyFree: "Can we just put dogshit for Doomfist?"_
