@@ -4,12 +4,12 @@
 
 | Player       | Status    | Join Date | Socials |
 | :----------- | :-------- | :-------- | :------ |
-| FiftyFree    | ✅ Active | -         | -       |
-| Nightmare    | ✅ Active | -         | -       |
-| Yowaz        | ✅ Active | -         | -       |
-| KrankyGuy    | ✅ Active | -         | -       |
-| Tinycrusader | ✅ Active | -         | -       |
-| Ooo          | ✅ Active | -         | -       |
+| FiftyFree    | ✅ Active | 25/06/22  | -       |
+| Nightmare    | ✅ Active | 22/05/22  | -       |
+| Yowaz        | ✅ Active | 18/05/22  | -       |
+| KrankyGuy    | ✅ Active | 15/07/22  | -       |
+| Tinycrusader | ✅ Active | 25/05/22  | -       |
+| Ooo          | ✅ Active | 21/04/22  | -       |
 
 ## Hero Pool
 
