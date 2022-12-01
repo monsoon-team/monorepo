@@ -1,5 +1,16 @@
 # Roster
 
+## Player List
+
+| Player       | Status    | Join Date | Socials |
+| :----------- | :-------- | :-------- | :------ |
+| FiftyFree    | ✅ Active | -         | -       |
+| Nightmare    | ✅ Active | -         | -       |
+| Yowaz        | ✅ Active | -         | -       |
+| KrankyGuy    | ✅ Active | -         | -       |
+| Tinycrusader | ✅ Active | -         | -       |
+| Ooo          | ✅ Active | -         | -       |
+
 ## Hero Pool
 
 | ID  |     Hero      |    Role    |  Players   |
