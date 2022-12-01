@@ -2,14 +2,14 @@
 
 ## Player List
 
-| Player       | Status    | Join Date | Socials |
-| :----------- | :-------- | :-------- | :------ |
-| FiftyFree    | ✅ Active | 25/06/22  | -       |
-| Nightmare    | ✅ Active | 22/05/22  | -       |
-| Yowaz        | ✅ Active | 18/05/22  | -       |
-| KrankyGuy    | ✅ Active | 15/07/22  | -       |
-| Tinycrusader | ✅ Active | 25/05/22  | -       |
-| Ooo          | ✅ Active | 21/04/22  | -       |
+| Player       | Status    | Join Date | Socials                                     |
+| :----------- | :-------- | :-------- | :------------------------------------------ |
+| FiftyFree    | ✅ Active | 25/06/22  | [Twitter](https://twitter.com/FiftyFree_)   |
+| Nightmare    | ✅ Active | 22/05/22  | [Twitter](https://twitter.com/NightmareOW1) |
+| Yowaz        | ✅ Active | 18/05/22  | [Twitter](https://twitter.com/Yowaz_ow)     |
+| KrankyGuy    | ✅ Active | 15/07/22  | [Twitter](https://twitter.com/KrankyGuy_)   |
+| Tinycrusader | ✅ Active | 25/05/22  | [Twitter](https://twitter.com/tinycrusader) |
+| Ooo          | ✅ Active | 21/04/22  | [Twitter](https://twitter.com/lilooo47)     |
 
 ## Hero Pool
 
