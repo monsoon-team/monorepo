@@ -39,7 +39,7 @@
 | 22  |      Ana      | ⚕️ Support |  Nightmare   |     ✅ Nominal     |                               |
 | 23  |    Sombra     |   ⚔️ DPS   |      -       | ❓ Missing Player  |                               |
 | 24  |     Orisa     |  🛡️ Tank   |  KrankyGuy   |     ✅ Nominal     |                               |
-| 25  |   Doomfist    |  🛡️ Tank   |      -       |    🚫 Inactive     |                               |
+| 25  |   Doomfist    |  🛡️ Tank   |      -       |    🚫 Inactive     | Low performing selection\*    |
 | 26  |     Moira     | ⚕️ Support |  Nightmare   |     ✅ Nominal     |                               |
 | 27  |   Brigitte    | ⚕️ Support | Tinycrusader | ⚠️ Needs Attention | Mechanical improvement needed |
 | 28  | Wrecking Ball |  🛡️ Tank   |    Yowaz     | ⚠️ Needs Attention | Unverified                    |
@@ -48,6 +48,8 @@
 | 31  |     Sigma     |  🛡️ Tank   |  KrankyGuy   |     ✅ Nominal     |                               |
 | 32  |     Echo      |   ⚔️ DPS   |      -       | ❓ Missing Player  |                               |
 | 33  |    Sojourn    |   ⚔️ DPS   |  FiftyFree   |     ✅ Nominal     |                               |
-| 34  | Junker Queen  |  🛡️ Tank   |  KrankyGuy   |    🚫 Inactive     |                               |
+| 34  | Junker Queen  |  🛡️ Tank   |  KrankyGuy   |    🚫 Inactive     | Low performing selection      |
 | 35  |    Kiriko     | ⚕️ Support |  Nightmare   |     ✅ Nominal     |                               |
-| 36  |   Ramattra    |  🛡️ Tank   | _Unreleased_ |    🚫 Inactive     |                               |
+| 36  |   Ramattra    |  🛡️ Tank   |      -       |    🚫 Inactive     | Unreleased                    |
+
+_FiftyFree: "Can we just put dogshit for Doomfist?"_
