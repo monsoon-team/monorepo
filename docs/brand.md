@@ -24,12 +24,12 @@ Our colour palette should be accessible above all else, and should be able to be
 
 | Colour |                   Preview                    | Hex       | Role            |
 | ------ | :------------------------------------------: | --------- | --------------- |
-| Blue   | ![](https://dummyimage.com/15/2E187F?text=+) | `#2E187F` | Primary dark    |
-| Green  | ![](https://dummyimage.com/15/13ff00?text=+) | `#13FF00` | Primary light   |
-| Red    | ![](https://dummyimage.com/15/7C040E?text=+) | `#7C040E` | Secondary dark  |
-| Yellow | ![](https://dummyimage.com/15/FFCC61?text=+) | `#FFCC61` | Secondary light |
-| Black  | ![](https://dummyimage.com/15/000000?text=+) | `#000000` | Absolute dark   |
-| White  | ![](https://dummyimage.com/15/FFFFFF?text=+) | `#FFFFFF` | Absolute light  |
+| Blue   | ![](https://dummyimage.com/45x15/2E187F?text=+) | `#2E187F` | Primary dark    |
+| Green  | ![](https://dummyimage.com/45x15/13ff00?text=+) | `#13FF00` | Primary light   |
+| Red    | ![](https://dummyimage.com/45x15/7C040E?text=+) | `#7C040E` | Secondary dark  |
+| Yellow | ![](https://dummyimage.com/45x15/FFCC61?text=+) | `#FFCC61` | Secondary light |
+| Black  | ![](https://dummyimage.com/45x15/000000?text=+) | `#000000` | Absolute dark   |
+| White  | ![](https://dummyimage.com/45x15/FFFFFF?text=+) | `#FFFFFF` | Absolute light  |
 
 ### Colour Usage
 
