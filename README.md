@@ -6,3 +6,5 @@ Some examples of what is held here are:
 - Social media branding
 - Team-only documentation
 - Standard procedures
+
+`#ffffff`
