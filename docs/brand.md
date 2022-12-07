@@ -63,12 +63,20 @@ The elements of a colour scheme are as follows:
 
 ### The Logo
 
+⚠️ Coming soon.
+
 #### Logo Usage
 
+⚠️ Coming soon.
+
 ### Wordmark
+
+⚠️ Coming soon.
 
 ## Typography
 
 ### The Fonts
 
-#### Font Usage
+| Font Name  | Author            | Preview                                           | Usage                           |
+| ---------- | ----------------- | ------------------------------------------------- | ------------------------------- |
+| Montserrat | Julieta Ulanovsky | ![](../assets/brand/font_previews/montserrat.png) | Titles, headings, and body text |
