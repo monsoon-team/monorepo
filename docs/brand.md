@@ -38,7 +38,6 @@ Our colour palette should be accessible above all else, and should be able to be
 | Colours        | Preview                                                        | Usage                          |
 | -------------- | -------------------------------------------------------------- | ------------------------------ |
 | Green on Blue  | ![](https://dummyimage.com/200x100/2E187F/13ff00?text=PREVIEW) | Primary colour pairing         |
-| Blue on Green  | ![](https://dummyimage.com/200x100/13ff00/2E187F?text=PREVIEW) | Primary colour pairing inverse |
 | Yellow on Red  | ![](https://dummyimage.com/200x100/7C040E/FFCC61?text=PREVIEW) | Secondary colour pair          |
 | Red on Yellow  | ![](https://dummyimage.com/200x100/FFCC61/7C040E?text=PREVIEW) | Secondary colour pair inverse  |
 | White on Black | ![](https://dummyimage.com/200x100/000000/FFFFFF?text=PREVIEW) | Absolute colour pair           |
