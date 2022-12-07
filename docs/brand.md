@@ -22,27 +22,27 @@ Our colour palette should be accessible above all else, and should be able to be
 
 ### The Palette
 
-| Colour |                      Preview                      | Hex       | Role            |
-| ------ | :-----------------------------------------------: | --------- | --------------- |
-| Blue   | ![](https://via.placeholder.com/15/2E187F?text=+) | `#2E187F` | Primary dark    |
-| Green  | ![](https://via.placeholder.com/15/13ff00?text=+) | `#13FF00` | Primary light   |
-| Red    | ![](https://via.placeholder.com/15/7C040E?text=+) | `#7C040E` | Secondary dark  |
-| Yellow | ![](https://via.placeholder.com/15/FFCC61?text=+) | `#FFCC61` | Secondary light |
-| Black  | ![](https://via.placeholder.com/15/000000?text=+) | `#000000` | Absolute dark   |
-| White  | ![](https://via.placeholder.com/15/FFFFFF?text=+) | `#FFFFFF` | Absolute light  |
+| Colour |                   Preview                    | Hex       | Role            |
+| ------ | :------------------------------------------: | --------- | --------------- |
+| Blue   | ![](https://dummyimage.com/15/2E187F?text=+) | `#2E187F` | Primary dark    |
+| Green  | ![](https://dummyimage.com/15/13ff00?text=+) | `#13FF00` | Primary light   |
+| Red    | ![](https://dummyimage.com/15/7C040E?text=+) | `#7C040E` | Secondary dark  |
+| Yellow | ![](https://dummyimage.com/15/FFCC61?text=+) | `#FFCC61` | Secondary light |
+| Black  | ![](https://dummyimage.com/15/000000?text=+) | `#000000` | Absolute dark   |
+| White  | ![](https://dummyimage.com/15/FFFFFF?text=+) | `#FFFFFF` | Absolute light  |
 
 ### Colour Usage
 
 #### Paired Colours
 
-| Colours        | Preview                                                             | Usage                          |
-| -------------- | ------------------------------------------------------------------- | ------------------------------ |
-| Green on Blue  | ![](https://via.placeholder.com/200x100/2E187F/13ff00?text=PREVIEW) | Primary colour pairing         |
-| Blue on Green  | ![](https://via.placeholder.com/200x100/13ff00/2E187F?text=PREVIEW) | Primary colour pairing inverse |
-| Yellow on Red  | ![](https://via.placeholder.com/200x100/7C040E/FFCC61?text=PREVIEW) | Secondary colour pair          |
-| Red on Yellow  | ![](https://via.placeholder.com/200x100/FFCC61/7C040E?text=PREVIEW) | Secondary colour pair inverse  |
-| White on Black | ![](https://via.placeholder.com/200x100/000000/FFFFFF?text=PREVIEW) | Absolute colour pair           |
-| Black on White | ![](https://via.placeholder.com/200x100/FFFFFF/000000?text=PREVIEW) | Absolute colour pair inverse   |
+| Colours        | Preview                                                        | Usage                          |
+| -------------- | -------------------------------------------------------------- | ------------------------------ |
+| Green on Blue  | ![](https://dummyimage.com/200x100/2E187F/13ff00?text=PREVIEW) | Primary colour pairing         |
+| Blue on Green  | ![](https://dummyimage.com/200x100/13ff00/2E187F?text=PREVIEW) | Primary colour pairing inverse |
+| Yellow on Red  | ![](https://dummyimage.com/200x100/7C040E/FFCC61?text=PREVIEW) | Secondary colour pair          |
+| Red on Yellow  | ![](https://dummyimage.com/200x100/FFCC61/7C040E?text=PREVIEW) | Secondary colour pair inverse  |
+| White on Black | ![](https://dummyimage.com/200x100/000000/FFFFFF?text=PREVIEW) | Absolute colour pair           |
+| Black on White | ![](https://dummyimage.com/200x100/FFFFFF/000000?text=PREVIEW) | Absolute colour pair inverse   |
 
 #### Colour Schemes
 
