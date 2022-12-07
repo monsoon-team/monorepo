@@ -18,7 +18,7 @@ We envision a world where professional competitive gaming is accessible to every
 
 ### Requirements
 
-Our colour pallete should be accessible above all else, and should be able to be used in a variety of contexts. The colours should be accessible to people with colour blindness. This means our primary colour pairings should have a contrast ratio of at least 7:1. We should also be able to use our colours in a variety of ways, such as in gradients, shadows, and outlines.
+Our colour palette should be accessible above all else, and should be able to be used in a variety of contexts. The colours should be accessible to people with colour blindness. This means our primary colour pairings should have a contrast ratio of at least 7:1. We should also be able to use our colours in a variety of ways, such as in gradients, shadows, and outlines.
 
 ### The Palette
 
