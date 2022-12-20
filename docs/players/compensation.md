@@ -15,3 +15,5 @@ The following is a list of all the ways that players can be compensated for thei
   - **Complete Absence:** If a player is not present for a competition, they will not receive any of the winnings from that competition.
   - **Ringers:** If a player is a ringer for a competition, they will receive the same cut of the winnings as the other players in the team. See [the Ringers document](../ringers.md#compensation) for more information.
 - **[Discord Nitro](https://discord.com/nitro):** Each player receives a single month of the $9.99 Discord Nitro as a gift per month sent to their DMs on request.
+
+Other compensation items may be provided outside of this list, such as holiday packages and rewards for specific player performance.
